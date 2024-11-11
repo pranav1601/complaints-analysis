@@ -3,3 +3,9 @@
 
 * The data consists of 5,540,175 rows and 18 columns.
 * you can view the whole article on [medium](https://medium.com/@pranav.agarw/unveiling-insights-a-deep-dive-into-credit-reporting-9878287af0a2)
+
+![complaints distribution](output.png)
+
+![trend of complaints](output2.png)
+
+![average response time](output3.png)
